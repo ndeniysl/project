@@ -1,0 +1,25 @@
+{
+  "name": "nelsonjulean43",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndeniysl/project.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"tomeakatra": "^1.0.1"
+  },
+  "devDependencies": {
+    
+  }
+
+
+}
